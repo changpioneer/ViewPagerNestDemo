@@ -1,4 +1,4 @@
-package com.pioneer.viewpagernest;
+package com.pioneer.viewpagernest.viewpagerdemo;
 
 import android.content.Context;
 import android.os.Bundle;
@@ -12,7 +12,8 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
 
-import com.pioneer.viewpagernest.indicator.BannerIndicator;
+import com.pioneer.viewpagernest.R;
+import com.pioneer.viewpagernest.viewpagerdemo.indicator.BannerIndicator;
 
 public class FirstFragment extends Fragment {
 

@@ -10,7 +10,7 @@
         android:layout_height="match_parent"
         android:overScrollMode="never" />
 
-    <com.pioneer.viewpagernest.indicator.BannerIndicator
+    <com.pioneer.viewpagernest.viewpagerdemo.indicator.BannerIndicator
         android:id="@+id/indicator"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

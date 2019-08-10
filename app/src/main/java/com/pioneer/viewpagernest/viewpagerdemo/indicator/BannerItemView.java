@@ -1,4 +1,4 @@
-package com.pioneer.viewpagernest.indicator;
+package com.pioneer.viewpagernest.viewpagerdemo.indicator;
 
 import android.content.Context;
 import android.graphics.Canvas;

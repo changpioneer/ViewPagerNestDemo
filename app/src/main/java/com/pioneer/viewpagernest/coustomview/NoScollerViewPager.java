@@ -1,4 +1,4 @@
-package com.pioneer.viewpagernest;
+package com.pioneer.viewpagernest.coustomview;
 
 import android.content.Context;
 import android.support.annotation.NonNull;

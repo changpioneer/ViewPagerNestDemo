@@ -1,4 +1,4 @@
-package com.pioneer.viewpagernest.indicator;
+package com.pioneer.viewpagernest.viewpagerdemo.indicator;
 
 import android.animation.AnimatorSet;
 import android.animation.ObjectAnimator;
